@@ -1,0 +1,41 @@
+.travle_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    float: none
+}
+
+.travle_mainDiv img {
+    width: 100px
+}
+
+.travle_mainDiv hr {
+    width: 230px;
+}
+
+.travle_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+
+
+
+
+
+.environment_li {
+    margin-top: 13px
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+
+}
+
+.environment_li {
+    border-radius: 25px;
+}
+
+environment_li {
+    margin-top: 10px;
+}
